@@ -1,0 +1,1 @@
+select * from project_1.day where custid not in (select custid from project_1.day_recol);

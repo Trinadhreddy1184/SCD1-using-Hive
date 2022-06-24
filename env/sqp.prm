@@ -1,0 +1,8 @@
+HOST=localhost
+PORT_NO=3306
+DB_NAME=project_1
+USERNAME=root
+PASSWORD_FILE=file:///home/saif/project_1/datasets/sqoop.pwd
+OP_DIR=/user/saif/project_1/day
+EXP_DIR=/user/hive/warehouse/project_1.db/temp2/
+EXP_TBL=day_recol
