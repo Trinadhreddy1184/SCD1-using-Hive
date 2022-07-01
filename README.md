@@ -1,12 +1,10 @@
-##Project 1: Loading Online Event Hits using Sqoop to Hive via Shell Script (SCD1)        
+#Project 1: Loading Online Event Hits using Sqoop to Hive via Shell Script (SCD1)        
           
 
 
         
         
           
-
-
         
         
           
